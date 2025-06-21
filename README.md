@@ -73,5 +73,6 @@ To build a regression model that predicts **hourly rented bike counts** using en
 
 ## 🔗 Author
 
-Tolulope Oluwabunmi – [GitHub](https://github.com/tolulopeoluwabunmi) | [LinkedIn](www.linkedin.com/in/tolulopeo11)
+Tolulope Oluwabunmi – [GitHub](https://github.com/tolulopeoluwabunmi) | [LinkedIn](https://www.linkedin.com/in/tolulopeo11/
+)
 
